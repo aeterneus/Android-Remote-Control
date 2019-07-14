@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remote-Control</string>
+    <string name="ip_address_text">IP address</string>
+    <string name="reconnect_text">Reconnect</string>
+</resources>
